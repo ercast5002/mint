@@ -71,4 +71,8 @@ public class CategoryService {
         return resultado;
     }
 
+    public boolean delete(int categoryId) {
+        return false;
+    }
+
 }
